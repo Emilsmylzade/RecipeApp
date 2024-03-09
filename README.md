@@ -5,8 +5,8 @@ Explore the world of culinary delights with my first Jetpack Compose app! This r
 ## Screenshots
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center;">
-  <img src="quizAppSS1.png" alt="Screenshot 1" width="300" style="margin-right: 20px;">
-  <img src="quizAppSS2.png" alt="Screenshot 2" width="300">
+  <img src="main_screen.png" alt="Screenshot 1" width="300" style="margin-right: 20px;">
+  <img src="recipe_screen.png" alt="Screenshot 2" width="300">
 </div>
 
 ## Technologies Used
